@@ -15,7 +15,7 @@ class operacionesTest {
     }
 
     @Test
-    void sumar() {
+    void sumar1() {
         double sum1 = 1;
         double sum2 = 2;
         double expResul = 3;
@@ -24,7 +24,7 @@ class operacionesTest {
     }
 
     @Test
-    void sumar1() {
+    void sumar2() {
         double sum1 = 2;
         double sum2 = 2;
         double expResul = 4;
@@ -33,7 +33,7 @@ class operacionesTest {
     }
 
     @Test
-    void sumar2() {
+    void sumar3() {
         double sum1 = 3;
         double sum2 = 2;
         double expResul = 5;
@@ -78,7 +78,7 @@ class operacionesTest {
     }
 
     @Test
-    void mul2() {
+    void mult2() {
         double sum1 = 10;
         double sum2 = 2;
         double expResul = 20;
@@ -87,7 +87,7 @@ class operacionesTest {
     }
 
     @Test
-    void mul3() {
+    void mult3() {
         double sum1 = 2;
         double sum2 = 2;
         double expResul = 4;
@@ -96,7 +96,7 @@ class operacionesTest {
     }
 
     @Test
-    void div() {
+    void div1() {
         double sum1 = 20;
         double sum2 = 2;
         double expResul = 10;
@@ -105,7 +105,7 @@ class operacionesTest {
     }
 
     @Test
-    void div1() {
+    void div2() {
         double sum1 = 10;
         double sum2 = 2;
         double expResul = 5;
@@ -114,7 +114,7 @@ class operacionesTest {
     }
 
     @Test
-    void div2() {
+    void div3() {
         double sum1 = 2;
         double sum2 = 2;
         double expResul = 1;
